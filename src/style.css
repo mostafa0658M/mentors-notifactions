@@ -24,7 +24,7 @@ body {
   box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.04);
   border-radius: 10px;
   padding: 42px 32px;
-  overflow-y: hidden;
+  overflow-y: scroll
 }
 *::-webkit-scrollbar-thumb{
   width:5px;
